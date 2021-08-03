@@ -13,6 +13,10 @@
 > 해당 소스코드의 라이선스는 Apache License 2.0 입니다. 꼭 지켜주세요.
 > 소스코드 변형 후 배포시 해당 깃허브 원본 링크를 기재해주세요.
 
+# 사용된 오픈소스
+>  8강 - 오늘의 날씨를 가져오는 명령어 : [Discord-Korea-Weather-Info] (https://github.com/Jiwon1300/Discord-Korea-Weather-Info)
+
+
 Discord : ! MOON#9999
 
 Discord Server : <a href="https://discord.gg/bmceBj6nH9" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
